@@ -1,3 +1,4 @@
+alert('Wciśnij F12 aby sprawdzić wartość')
 var a = 5;
 var b = 3;
 var value = (a * a) + (2 * a * b) - (b * b);

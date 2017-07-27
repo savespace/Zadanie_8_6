@@ -4,7 +4,11 @@
   "description": "przykład",
   "main": "Gruntfile.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  },
   "scripts": {
     "test": "kodilla-p"
   },
@@ -12,5 +16,13 @@
     "key"
   ],
   "author": "Krzysztof Zielonka",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/savespace/Zadanie_8_6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/savespace/Zadanie_8_6/issues"
+  },
+  "homepage": "https://github.com/savespace/Zadanie_8_6#readme"
 }

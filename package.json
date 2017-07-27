@@ -1,0 +1,16 @@
+{
+  "name": "8_6",
+  "version": "1.0.0",
+  "description": "przykład",
+  "main": "Gruntfile.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "kodilla-p"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "Krzysztof Zielonka",
+  "license": "ISC"
+}
